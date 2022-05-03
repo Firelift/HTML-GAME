@@ -1,0 +1,7 @@
+Déplacement du bateau: flèche du clavier
+
+Déplacement cannon: touche Q & D
+
+Tire: barre espace
+
+Navigation dans le menu amélioration et du jeu : touche clavier Q, D, Z, S
