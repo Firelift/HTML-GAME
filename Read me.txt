@@ -5,3 +5,5 @@ Déplacement cannon: touche Q & D
 Tire: barre espace
 
 Navigation dans le menu amélioration et du jeu : touche clavier Q, D, Z, S
+
+Collecter les trois ressources du jeu pour ameliorer son bateau
